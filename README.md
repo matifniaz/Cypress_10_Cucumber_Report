@@ -21,3 +21,11 @@ Install project dependencies with:
 ```
 npm install
 ```
+
+## Cucmber Reports
+### Report 01
+
+![image](https://user-images.githubusercontent.com/40147842/200881377-7b805585-f6f1-4edd-8461-3eb17e5a41f8.png)
+
+### Report 02
+![image](https://user-images.githubusercontent.com/40147842/200881475-b06485cb-48bd-428e-a278-4c0fe4ea81aa.png)
