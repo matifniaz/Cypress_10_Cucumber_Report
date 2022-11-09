@@ -1,0 +1,23 @@
+{
+  "name": "cypress-cumber-man",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:execution": "cypress run",
+    "cypress:execution-tags-mobile": "cypress run --env tags=@mobile",
+    "cypress:execution-tags-desktop": "cypress run --env tags=@desktop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.1.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^10.11.0",
+    "esbuild": "^0.15.13",
+    "multiple-cucumber-html-reporter": "^3.0.1"
+  }
+}
