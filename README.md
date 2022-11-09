@@ -16,3 +16,8 @@ We use Following VS Code Plugin "Cucumber (Gherkin) Full Support"
 - [X] multiple-cucumber-html-reporter - https://www.npmjs.com/package/multiple-cucumber-html-reporter
 - [X] @badeball/cypress-cucumber-preprocessor - https://www.npmjs.com/package/@badeball/cypress-cucumber-preprocessor
 - [X] @bahmutov/cypress-esbuild-preprocesso - https://www.npmjs.com/package/@bahmutov/cypress-esbuild-preprocessor
+## Install the project
+Install project dependencies with: 
+```
+npm install
+```
