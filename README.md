@@ -1,8 +1,8 @@
-# Cypress_10_Cucumber_Report
+# Cypress_10 & 11_Cucumber_Report
 
 ![image](https://user-images.githubusercontent.com/40147842/201000621-1cfb2084-d10e-4b65-858c-764b272d8a67.png)
 
-Cypress 10 with Cucumber - Cucmber Report and Multiple Cucumber HTML Reporter.
+Cypress 10 and 11 with Cucumber - Cucmber Report and Multiple Cucumber HTML Reporter.
 
 ## Pre-requisites
 
