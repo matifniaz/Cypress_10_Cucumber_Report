@@ -11,6 +11,11 @@ We use Following VS Code Plugin "Cucumber (Gherkin) Full Support"
 ![image](https://user-images.githubusercontent.com/40147842/200868137-ec95476b-b19b-4ef5-85a6-683f3b676de0.png)
 - [X] Node JS
 - [X] Json-formatter for Native Reporter option(depends on your OS: https://github.com/cucumber/json-formatter)
+- [ ] Download Link "Json-formatte":https://github.com/cucumber/json-formatter/releases/tag/v19.0.0
+#### Windows Installtion for "Json-formatte"
+- Download cucumber-json-formatter-windows-amd64 and rename it to cucumber-json-formatter.exe
+- Move it to a directory that's on your PATH
+- Verify that you can run it: cucumber-json-formatter --help
 ## Integrated with:
 - [X] cypress - https://www.npmjs.com/package/cypress
 - [X] multiple-cucumber-html-reporter - https://www.npmjs.com/package/multiple-cucumber-html-reporter
